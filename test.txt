@@ -10,4 +10,10 @@ asdas
 
 
 safsg
+<<<<<<< HEAD
 健康就好vh是的话过得更好
+=======
+健康就好vh
+
+hjbhjvb
+>>>>>>> feature1
